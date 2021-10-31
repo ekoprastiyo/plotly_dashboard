@@ -1,0 +1,595 @@
+city,categories,categories01,categories02,categories03
+Agoura,burgers,,2.0,1.0
+Agoura,hotdogs,2.0,,
+Agoura,tacos,,,1.0
+Agoura Hills,burgers,1.0,2.0,1.0
+Agoura Hills,chicken_wings,,1.0,
+Agoura Hills,donuts,1.0,,
+Agoura Hills,hotdogs,1.0,4.0,
+Agoura Hills,pizza,3.0,3.0,1.0
+Agoura Hills,salad,,3.0,1.0
+Agoura Hills,sandwiches,3.0,,4.0
+Alhambra,burgers,7.0,5.0,3.0
+Alhambra,chicken_wings,3.0,2.0,2.0
+Alhambra,donuts,1.0,,
+Alhambra,hotdogs,7.0,3.0,3.0
+Alhambra,pizza,1.0,3.0,1.0
+Alhambra,salad,1.0,2.0,
+Alhambra,sandwiches,4.0,2.0,3.0
+Alhambra,tacos,1.0,,
+Antelope Center,tacos,1.0,,
+Arcadia,burgers,,,1.0
+Arcadia,chicken_wings,1.0,1.0,1.0
+Arcadia,donuts,1.0,,1.0
+Arcadia,hotdogs,4.0,6.0,3.0
+Arcadia,pizza,2.0,1.0,1.0
+Arcadia,salad,1.0,1.0,1.0
+Arcadia,sandwiches,1.0,,
+Artesia,burgers,1.0,1.0,1.0
+Artesia,chicken_wings,2.0,1.0,2.0
+Artesia,hotdogs,3.0,3.0,2.0
+Artesia,pizza,2.0,1.0,
+Artesia,salad,,2.0,
+Artesia,sandwiches,2.0,1.0,1.0
+Artesia,tacos,,,1.0
+Azusa,burgers,1.0,,
+Azusa,pizza,,1.0,
+Azusa,sandwiches,,,1.0
+Baldwin Hills,hotdogs,,1.0,
+Baldwin Hills,pizza,1.0,,
+Bell,burgers,5.0,5.0,
+Bell,chicken_wings,,3.0,1.0
+Bell,hotdogs,2.0,3.0,2.0
+Bell,pizza,6.0,,1.0
+Bell,salad,,1.0,
+Bell,sandwiches,1.0,,3.0
+Bell,tacos,2.0,,1.0
+Bell Gardens,burgers,9.0,4.0,2.0
+Bell Gardens,chicken_wings,1.0,4.0,1.0
+Bell Gardens,donuts,1.0,,
+Bell Gardens,hotdogs,5.0,7.0,
+Bell Gardens,pizza,6.0,,
+Bell Gardens,salad,,2.0,
+Bell Gardens,sandwiches,2.0,1.0,3.0
+Bell Gardens,tacos,1.0,,2.0
+Bellflower,burgers,1.0,3.0,
+Bellflower,chicken_wings,1.0,,
+Bellflower,donuts,2.0,,
+Bellflower,hotdogs,4.0,4.0,
+Bellflower,pizza,3.0,,
+Bellflower,sandwiches,2.0,1.0,2.0
+Bellflower,tacos,,,1.0
+Beverly Hills,burgers,3.0,3.0,5.0
+Beverly Hills,chicken_wings,,,3.0
+Beverly Hills,hotdogs,1.0,5.0,1.0
+Beverly Hills,pizza,9.0,1.0,2.0
+Beverly Hills,salad,1.0,10.0,4.0
+Beverly Hills,sandwiches,9.0,12.0,12.0
+Burbank,burgers,1.0,,1.0
+Burbank,sandwiches,1.0,,1.0
+Calabasas,burgers,,1.0,
+Calabasas,chicken_wings,,1.0,
+Calabasas,hotdogs,,,1.0
+Calabasas,pizza,1.0,,1.0
+Calabasas,salad,,1.0,1.0
+Calabasas,sandwiches,2.0,,
+Canyon Country,burgers,2.0,2.0,
+Canyon Country,chicken_wings,,3.0,1.0
+Canyon Country,donuts,2.0,,
+Canyon Country,hotdogs,6.0,4.0,
+Canyon Country,pizza,5.0,,
+Canyon Country,sandwiches,3.0,2.0,3.0
+Canyon Country,tacos,,1.0,1.0
+Century City,salad,,1.0,
+Century City,sandwiches,1.0,,
+Cerritos,burgers,2.0,1.0,1.0
+Cerritos,chicken_wings,3.0,2.0,2.0
+Cerritos,hotdogs,5.0,8.0,2.0
+Cerritos,pancakes,1.0,,
+Cerritos,pizza,2.0,2.0,1.0
+Cerritos,salad,1.0,4.0,4.0
+Cerritos,sandwiches,3.0,3.0,1.0
+Cerritos,tacos,,,1.0
+Chatsworth,burgers,1.0,,1.0
+Chatsworth,hotdogs,,1.0,
+Chatsworth,salad,,2.0,1.0
+Chatsworth,sandwiches,1.0,1.0,
+City Of Commerce,burgers,,2.0,
+City Of Commerce,hotdogs,,,1.0
+City Of Industry,burgers,3.0,1.0,1.0
+City Of Industry,chicken_wings,1.0,,
+City Of Industry,hotdogs,2.0,4.0,1.0
+City Of Industry,pizza,1.0,,1.0
+City Of Industry,salad,,1.0,
+City Of Industry,sandwiches,1.0,2.0,
+Claremont,burgers,3.0,4.0,
+Claremont,chicken_wings,,2.0,1.0
+Claremont,donuts,1.0,,
+Claremont,hotdogs,3.0,1.0,
+Claremont,pizza,5.0,1.0,2.0
+Claremont,salad,1.0,2.0,1.0
+Claremont,sandwiches,2.0,3.0,7.0
+Claremont,tacos,1.0,,
+Commerce,burgers,,4.0,
+Commerce,chicken_wings,,1.0,
+Commerce,hotdogs,10.0,1.0,2.0
+Commerce,pizza,2.0,,
+Commerce,salad,,,1.0
+Commerce,sandwiches,4.0,3.0,2.0
+Commerce,tacos,,1.0,1.0
+Covina,burgers,,2.0,1.0
+Covina,chicken_wings,,1.0,1.0
+Covina,hotdogs,3.0,3.0,
+Covina,pizza,2.0,,
+Covina,salad,,1.0,
+Covina,sandwiches,,1.0,2.0
+Covina,tacos,1.0,,
+Cudahy,burgers,3.0,2.0,
+Cudahy,hotdogs,3.0,3.0,
+Cudahy,pizza,1.0,,
+Cudahy,sandwiches,,1.0,1.0
+Cudahy,tacos,3.0,1.0,
+Culver City,burgers,5.0,3.0,1.0
+Culver City,chicken_wings,,1.0,3.0
+Culver City,donuts,2.0,,
+Culver City,hotdogs,8.0,11.0,
+Culver City,pizza,8.0,3.0,2.0
+Culver City,salad,2.0,10.0,1.0
+Culver City,sandwiches,9.0,7.0,10.0
+Culver City,tacos,2.0,1.0,2.0
+Diamond Bar,burgers,1.0,3.0,
+Diamond Bar,chicken_wings,,1.0,
+Diamond Bar,hotdogs,6.0,4.0,
+Diamond Bar,pizza,1.0,,
+Diamond Bar,salad,,1.0,1.0
+Diamond Bar,sandwiches,,1.0,2.0
+Downey,burgers,5.0,5.0,2.0
+Downey,chicken_wings,3.0,1.0,2.0
+Downey,donuts,1.0,1.0,
+Downey,hotdogs,9.0,10.0,3.0
+Downey,pizza,6.0,2.0,3.0
+Downey,salad,3.0,4.0,1.0
+Downey,sandwiches,5.0,5.0,5.0
+Downey,tacos,1.0,1.0,1.0
+East Los Angeles,burgers,2.0,,
+East Los Angeles,hotdogs,1.0,3.0,
+East Los Angeles,sandwiches,,,1.0
+East Los Angeles,tacos,5.0,3.0,1.0
+El Monte,burgers,8.0,5.0,1.0
+El Monte,chicken_wings,1.0,3.0,1.0
+El Monte,donuts,2.0,,
+El Monte,hotdogs,15.0,10.0,2.0
+El Monte,pizza,8.0,,
+El Monte,salad,1.0,2.0,
+El Monte,sandwiches,6.0,2.0,4.0
+El Monte,tacos,5.0,1.0,2.0
+El Segundo,burgers,3.0,1.0,
+El Segundo,hotdogs,,1.0,
+El Segundo,pizza,2.0,,
+El Segundo,salad,1.0,,1.0
+El Segundo,sandwiches,,2.0,
+El Segundo,tacos,,,2.0
+Florence-Firestone,tacos,1.0,,
+Gardena,burgers,4.0,3.0,1.0
+Gardena,chicken_wings,2.0,2.0,2.0
+Gardena,donuts,2.0,,
+Gardena,hotdogs,5.0,7.0,1.0
+Gardena,pizza,4.0,1.0,
+Gardena,salad,,2.0,2.0
+Gardena,sandwiches,3.0,,9.0
+Gardena,tacos,1.0,,1.0
+Glendale,burgers,13.0,6.0,5.0
+Glendale,chicken_wings,4.0,6.0,2.0
+Glendale,donuts,1.0,,
+Glendale,hotdogs,12.0,17.0,2.0
+Glendale,pizza,27.0,7.0,5.0
+Glendale,salad,2.0,7.0,4.0
+Glendale,sandwiches,14.0,15.0,16.0
+Glendale,tacos,,1.0,3.0
+Glendora,burgers,3.0,2.0,
+Glendora,chicken_wings,1.0,1.0,
+Glendora,hotdogs,5.0,3.0,1.0
+Glendora,pizza,,,1.0
+Glendora,salad,1.0,1.0,
+Glendora,sandwiches,,,2.0
+Golden Valley,hotdogs,,1.0,
+Golden Valley,sandwiches,1.0,,
+Hacienda Heights,burgers,1.0,1.0,
+Hacienda Heights,chicken_wings,1.0,,1.0
+Hacienda Heights,donuts,2.0,,
+Hacienda Heights,hotdogs,4.0,2.0,1.0
+Hacienda Heights,pizza,4.0,,
+Hacienda Heights,sandwiches,2.0,2.0,2.0
+Hacienda Heights,tacos,3.0,,1.0
+Harbor City,burgers,1.0,1.0,
+Harbor City,chicken_wings,1.0,,1.0
+Harbor City,hotdogs,2.0,1.0,
+Harbor City,pancakes,1.0,,
+Harbor City,pizza,1.0,,
+Harbor City,sandwiches,1.0,,
+Harbor City,tacos,,2.0,
+Hollywood,burgers,3.0,1.0,
+Hollywood,chicken_wings,,1.0,1.0
+Hollywood,hotdogs,2.0,1.0,1.0
+Hollywood,pizza,3.0,,
+Hollywood,salad,,2.0,1.0
+Hollywood,sandwiches,1.0,1.0,3.0
+Huntington Park,burgers,8.0,9.0,1.0
+Huntington Park,chicken_wings,2.0,2.0,2.0
+Huntington Park,donuts,4.0,,
+Huntington Park,hotdogs,8.0,6.0,3.0
+Huntington Park,pizza,13.0,2.0,
+Huntington Park,salad,,1.0,2.0
+Huntington Park,sandwiches,4.0,4.0,5.0
+Huntington Park,tacos,2.0,3.0,1.0
+Industry,burgers,2.0,,1.0
+Industry,chicken_wings,1.0,,
+Industry,hotdogs,3.0,2.0,
+Inglewood,burgers,1.0,,
+Inglewood,chicken_wings,,,1.0
+Inglewood,hotdogs,1.0,2.0,1.0
+Inglewood,pizza,3.0,,
+Inglewood,sandwiches,,1.0,
+Inglewood,tacos,,,1.0
+La Mirada,burgers,4.0,4.0,1.0
+La Mirada,chicken_wings,,3.0,1.0
+La Mirada,donuts,1.0,,
+La Mirada,hotdogs,10.0,4.0,2.0
+La Mirada,pizza,8.0,,
+La Mirada,salad,1.0,2.0,1.0
+La Mirada,sandwiches,2.0,3.0,3.0
+La Mirada,tacos,2.0,,
+La Puente,burgers,6.0,2.0,1.0
+La Puente,chicken_wings,1.0,7.0,
+La Puente,donuts,1.0,,
+La Puente,hotdogs,10.0,8.0,1.0
+La Puente,pizza,5.0,,
+La Puente,sandwiches,2.0,1.0,3.0
+La Puente,tacos,5.0,2.0,1.0
+La Verne,burgers,1.0,4.0,1.0
+La Verne,chicken_wings,1.0,,1.0
+La Verne,hotdogs,8.0,6.0,3.0
+La Verne,pizza,5.0,2.0,1.0
+La Verne,salad,2.0,1.0,2.0
+La Verne,sandwiches,5.0,4.0,2.0
+La Verne,tacos,1.0,,1.0
+Lakeview Terrace,tacos,1.0,,
+Lakewood,burgers,7.0,10.0,4.0
+Lakewood,chicken_wings,5.0,5.0,2.0
+Lakewood,donuts,1.0,,
+Lakewood,hotdogs,23.0,17.0,2.0
+Lakewood,pizza,14.0,,1.0
+Lakewood,salad,1.0,5.0,3.0
+Lakewood,sandwiches,9.0,5.0,5.0
+Lakewood,tacos,1.0,,2.0
+Lancaster,burgers,21.0,18.0,4.0
+Lancaster,chicken_wings,4.0,10.0,10.0
+Lancaster,donuts,2.0,,
+Lancaster,hotdogs,36.0,25.0,2.0
+Lancaster,pizza,21.0,4.0,2.0
+Lancaster,salad,1.0,2.0,4.0
+Lancaster,sandwiches,15.0,7.0,11.0
+Lancaster,tacos,3.0,3.0,3.0
+Lomita,burgers,1.0,3.0,1.0
+Lomita,chicken_wings,1.0,2.0,1.0
+Lomita,hotdogs,3.0,2.0,
+Lomita,pizza,4.0,,
+Lomita,salad,,,1.0
+Lomita,sandwiches,1.0,,2.0
+Lomita,tacos,,1.0,1.0
+Long Beach,burgers,23.0,17.0,6.0
+Long Beach,chicken_wings,6.0,12.0,5.0
+Long Beach,donuts,6.0,1.0,2.0
+Long Beach,hotdogs,33.0,34.0,5.0
+Long Beach,pizza,34.0,2.0,1.0
+Long Beach,salad,2.0,4.0,4.0
+Long Beach,sandwiches,22.0,17.0,29.0
+Long Beach,tacos,5.0,6.0,6.0
+Los Angeles,burgers,146.0,104.0,38.0
+Los Angeles,chicken_wings,53.0,53.0,42.0
+Los Angeles,donuts,23.0,3.0,
+Los Angeles,hotdogs,116.0,132.0,37.0
+Los Angeles,pancakes,,1.0,1.0
+Los Angeles,pizza,161.0,51.0,13.0
+Los Angeles,salad,36.0,69.0,42.0
+Los Angeles,sandwiches,131.0,104.0,158.0
+Los Angeles,tacos,76.0,54.0,25.0
+Lynwood,burgers,6.0,4.0,1.0
+Lynwood,chicken_wings,2.0,5.0,1.0
+Lynwood,donuts,3.0,,
+Lynwood,hotdogs,6.0,8.0,2.0
+Lynwood,pizza,8.0,1.0,
+Lynwood,sandwiches,3.0,4.0,3.0
+Lynwood,tacos,1.0,,1.0
+Malibu,burgers,1.0,,
+Malibu,hotdogs,,1.0,
+Malibu,sandwiches,2.0,1.0,
+Malibu,tacos,,1.0,
+Manhattan Beach,burgers,3.0,,
+Manhattan Beach,chicken_wings,,1.0,
+Manhattan Beach,hotdogs,,1.0,
+Manhattan Beach,pizza,3.0,,
+Manhattan Beach,salad,1.0,1.0,3.0
+Manhattan Beach,sandwiches,2.0,3.0,4.0
+Maywood,burgers,7.0,1.0,
+Maywood,chicken_wings,1.0,2.0,1.0
+Maywood,donuts,3.0,,
+Maywood,hotdogs,4.0,7.0,
+Maywood,pizza,4.0,,
+Maywood,sandwiches,2.0,,3.0
+Maywood,tacos,,1.0,1.0
+Mission Hills,burgers,1.0,,
+Mission Hills,hotdogs,1.0,1.0,
+Mission Hills,sandwiches,2.0,1.0,
+Mission Hills,tacos,1.0,,
+Montebello,burgers,8.0,2.0,2.0
+Montebello,chicken_wings,2.0,4.0,
+Montebello,donuts,1.0,,
+Montebello,hotdogs,4.0,6.0,2.0
+Montebello,pizza,3.0,3.0,
+Montebello,salad,1.0,1.0,1.0
+Montebello,sandwiches,1.0,4.0,4.0
+Montebello,tacos,,,1.0
+Monterey Park,burgers,1.0,1.0,
+Monterey Park,chicken_wings,1.0,1.0,
+Monterey Park,donuts,1.0,,
+Monterey Park,hotdogs,,1.0,
+Monterey Park,pizza,2.0,,
+Monterey Park,sandwiches,,1.0,1.0
+Newhall,pizza,,1.0,
+North Hills,hotdogs,,1.0,
+North Hills,pizza,1.0,,
+North Hills,sandwiches,,,1.0
+Northridge,burgers,3.0,6.0,1.0
+Northridge,chicken_wings,1.0,1.0,2.0
+Northridge,hotdogs,8.0,4.0,
+Northridge,pizza,3.0,1.0,
+Northridge,salad,1.0,2.0,1.0
+Northridge,sandwiches,6.0,2.0,1.0
+Northridge,tacos,,,1.0
+Norwalk,burgers,3.0,1.0,
+Norwalk,chicken_wings,,2.0,
+Norwalk,hotdogs,3.0,2.0,1.0
+Norwalk,pizza,1.0,,
+Norwalk,salad,,2.0,
+Norwalk,sandwiches,2.0,,2.0
+Pacoima,burgers,1.0,1.0,
+Pacoima,chicken_wings,1.0,,
+Pacoima,donuts,1.0,,
+Pacoima,hotdogs,1.0,4.0,
+Pacoima,sandwiches,2.0,1.0,1.0
+Pacoima,tacos,1.0,,
+Palmdale,burgers,9.0,17.0,1.0
+Palmdale,chicken_wings,2.0,5.0,6.0
+Palmdale,donuts,1.0,,
+Palmdale,hotdogs,16.0,18.0,4.0
+Palmdale,pizza,13.0,2.0,1.0
+Palmdale,salad,1.0,3.0,4.0
+Palmdale,sandwiches,9.0,5.0,8.0
+Palmdale,tacos,2.0,2.0,3.0
+Panorama City,burgers,1.0,5.0,
+Panorama City,donuts,1.0,,
+Panorama City,hotdogs,5.0,2.0,
+Panorama City,pizza,2.0,,1.0
+Panorama City,salad,1.0,,
+Panorama City,sandwiches,1.0,1.0,1.0
+Panorama City,tacos,,,1.0
+Pasadena,burgers,6.0,4.0,3.0
+Pasadena,chicken_wings,,3.0,1.0
+Pasadena,hotdogs,3.0,5.0,5.0
+Pasadena,pizza,10.0,1.0,
+Pasadena,salad,1.0,8.0,5.0
+Pasadena,sandwiches,8.0,4.0,6.0
+Pasadena,tacos,,,1.0
+Pomona,burgers,10.0,9.0,2.0
+Pomona,chicken_wings,4.0,2.0,2.0
+Pomona,donuts,2.0,,1.0
+Pomona,hotdogs,14.0,13.0,2.0
+Pomona,pizza,11.0,2.0,1.0
+Pomona,salad,,1.0,
+Pomona,sandwiches,6.0,1.0,4.0
+Pomona,tacos,1.0,1.0,3.0
+Quartz Hill,burgers,1.0,1.0,
+Quartz Hill,hotdogs,1.0,,
+Quartz Hill,pizza,3.0,,
+Quartz Hill,sandwiches,1.0,,1.0
+Rancho Palos Verdes,burgers,2.0,1.0,1.0
+Rancho Palos Verdes,chicken_wings,,,1.0
+Rancho Palos Verdes,hotdogs,2.0,1.0,
+Rancho Palos Verdes,pizza,4.0,,
+Rancho Palos Verdes,sandwiches,,1.0,
+Rancho Palos Verdes,tacos,,,1.0
+Reseda,burgers,,2.0,
+Reseda,chicken_wings,,,1.0
+Reseda,donuts,1.0,,
+Reseda,hotdogs,2.0,,1.0
+Reseda,pizza,1.0,,
+Reseda,sandwiches,1.0,,1.0
+Rosemead,burgers,1.0,1.0,1.0
+Rosemead,chicken_wings,1.0,,
+Rosemead,donuts,,1.0,
+Rosemead,hotdogs,2.0,3.0,
+Rosemead,pizza,1.0,,
+Rosemead,salad,,1.0,
+Rosemead,sandwiches,3.0,2.0,2.0
+Rowland Heights,burgers,1.0,1.0,
+Rowland Heights,chicken_wings,1.0,2.0,1.0
+Rowland Heights,hotdogs,2.0,,
+Rowland Heights,pizza,1.0,2.0,
+Rowland Heights,salad,,1.0,
+Rowland Heights,sandwiches,1.0,,1.0
+Rowland Heights,tacos,,1.0,
+San Dimas,burgers,6.0,2.0,2.0
+San Dimas,chicken_wings,,1.0,
+San Dimas,hotdogs,5.0,5.0,
+San Dimas,pizza,5.0,1.0,
+San Dimas,salad,,3.0,1.0
+San Dimas,sandwiches,6.0,1.0,3.0
+San Dimas,tacos,,,1.0
+San Fernando,burgers,5.0,5.0,1.0
+San Fernando,chicken_wings,3.0,1.0,
+San Fernando,donuts,1.0,,
+San Fernando,hotdogs,8.0,7.0,
+San Fernando,pizza,4.0,1.0,
+San Fernando,salad,1.0,,
+San Fernando,sandwiches,3.0,,3.0
+San Fernando,tacos,1.0,3.0,2.0
+San Gabriel,burgers,,1.0,
+San Gabriel,chicken_wings,,1.0,1.0
+San Gabriel,hotdogs,3.0,2.0,2.0
+San Gabriel,pizza,3.0,,
+San Gabriel,sandwiches,4.0,,2.0
+San Gabriel,tacos,1.0,1.0,
+San Pedro,burgers,2.0,2.0,
+San Pedro,hotdogs,3.0,4.0,
+San Pedro,pizza,2.0,,
+San Pedro,salad,,1.0,
+San Pedro,sandwiches,2.0,1.0,3.0
+Santa Clarita,burgers,9.0,9.0,2.0
+Santa Clarita,chicken_wings,3.0,4.0,2.0
+Santa Clarita,hotdogs,10.0,9.0,1.0
+Santa Clarita,pizza,8.0,,1.0
+Santa Clarita,salad,1.0,4.0,4.0
+Santa Clarita,sandwiches,4.0,3.0,4.0
+Santa Clarita,tacos,1.0,,2.0
+Santa Fe Springs,burgers,5.0,5.0,
+Santa Fe Springs,hotdogs,7.0,4.0,1.0
+Santa Fe Springs,salad,,1.0,
+Santa Fe Springs,sandwiches,3.0,1.0,2.0
+Santa Fe Springs,tacos,3.0,1.0,1.0
+Santa Monica,burgers,8.0,8.0,
+Santa Monica,chicken_wings,,3.0,
+Santa Monica,donuts,1.0,,1.0
+Santa Monica,hotdogs,2.0,3.0,1.0
+Santa Monica,pizza,10.0,4.0,1.0
+Santa Monica,salad,3.0,11.0,5.0
+Santa Monica,sandwiches,7.0,6.0,7.0
+Santa Monica,tacos,2.0,1.0,2.0
+Saugus,burgers,1.0,,1.0
+Saugus,hotdogs,,2.0,
+Saugus,sandwiches,1.0,,
+Seaside,burgers,1.0,,
+Seaside,hotdogs,,1.0,
+Sherman Oaks,burgers,3.0,4.0,1.0
+Sherman Oaks,chicken_wings,1.0,2.0,2.0
+Sherman Oaks,donuts,2.0,,
+Sherman Oaks,hotdogs,6.0,5.0,
+Sherman Oaks,pancakes,,1.0,
+Sherman Oaks,pizza,12.0,3.0,1.0
+Sherman Oaks,salad,5.0,1.0,
+Sherman Oaks,sandwiches,2.0,9.0,5.0
+Sherman Oaks,tacos,,1.0,
+South El Monte,burgers,1.0,1.0,
+South El Monte,chicken_wings,,1.0,
+South El Monte,donuts,1.0,,
+South El Monte,hotdogs,1.0,1.0,
+South El Monte,pizza,2.0,,
+South El Monte,sandwiches,3.0,1.0,2.0
+South El Monte,tacos,,2.0,
+South Gate,burgers,11.0,8.0,2.0
+South Gate,chicken_wings,5.0,3.0,3.0
+South Gate,donuts,3.0,,
+South Gate,hotdogs,13.0,16.0,2.0
+South Gate,pizza,10.0,1.0,
+South Gate,salad,2.0,2.0,
+South Gate,sandwiches,6.0,2.0,10.0
+South Gate,tacos,1.0,,3.0
+Studio City,burgers,3.0,1.0,2.0
+Studio City,chicken_wings,,1.0,
+Studio City,hotdogs,,3.0,
+Studio City,pizza,7.0,1.0,
+Studio City,salad,2.0,5.0,2.0
+Studio City,sandwiches,4.0,4.0,9.0
+Sylmar,burgers,1.0,1.0,
+Sylmar,chicken_wings,,5.0,2.0
+Sylmar,donuts,1.0,,
+Sylmar,hotdogs,6.0,4.0,
+Sylmar,pizza,7.0,,
+Sylmar,salad,,1.0,
+Sylmar,sandwiches,4.0,1.0,4.0
+Sylmar,tacos,1.0,2.0,1.0
+Tarzana,burgers,1.0,2.0,1.0
+Tarzana,chicken_wings,1.0,1.0,1.0
+Tarzana,donuts,1.0,,
+Tarzana,hotdogs,3.0,4.0,
+Tarzana,pizza,6.0,2.0,3.0
+Tarzana,salad,2.0,3.0,3.0
+Tarzana,sandwiches,4.0,5.0,4.0
+Temple City,burgers,1.0,3.0,
+Temple City,chicken_wings,,,1.0
+Temple City,donuts,1.0,,
+Temple City,hotdogs,2.0,2.0,
+Temple City,pizza,3.0,,
+Temple City,sandwiches,1.0,2.0,
+Temple City,tacos,,1.0,
+Torrance,burgers,9.0,10.0,2.0
+Torrance,chicken_wings,5.0,2.0,
+Torrance,hotdogs,12.0,10.0,2.0
+Torrance,pizza,6.0,2.0,
+Torrance,salad,2.0,5.0,5.0
+Torrance,sandwiches,7.0,5.0,6.0
+Torrance,tacos,,,1.0
+Valencia,burgers,2.0,,
+Valencia,hotdogs,1.0,2.0,
+Valencia,pizza,1.0,,
+Valencia,salad,,1.0,2.0
+Valencia,sandwiches,3.0,1.0,1.0
+Valley Village,pizza,2.0,,
+Valley Village,sandwiches,1.0,,
+Van Nuys,burgers,2.0,5.0,1.0
+Van Nuys,chicken_wings,,3.0,2.0
+Van Nuys,donuts,2.0,,
+Van Nuys,hotdogs,8.0,6.0,
+Van Nuys,pizza,6.0,,1.0
+Van Nuys,salad,,3.0,1.0
+Van Nuys,sandwiches,3.0,,7.0
+Van Nuys,tacos,,2.0,2.0
+Venice,donuts,,1.0,
+Venice,pizza,,,1.0
+Venice,sandwiches,1.0,,
+Vernon,burgers,1.0,,
+Walnut,burgers,1.0,1.0,1.0
+Walnut,chicken_wings,,,1.0
+Walnut,hotdogs,1.0,4.0,1.0
+Walnut,pizza,1.0,,
+Walnut,salad,,1.0,1.0
+Walnut,sandwiches,1.0,,
+Walnut Park,burgers,1.0,,
+Walnut Park,chicken_wings,1.0,,
+Walnut Park,hotdogs,,2.0,
+Walnut Park,pizza,1.0,,
+Walnut Park,tacos,,1.0,
+West Covina,burgers,3.0,3.0,2.0
+West Covina,chicken_wings,1.0,1.0,
+West Covina,donuts,1.0,,
+West Covina,hotdogs,4.0,3.0,
+West Covina,pizza,3.0,,
+West Covina,salad,,,2.0
+West Covina,sandwiches,1.0,1.0,3.0
+West Hollywood,burgers,5.0,1.0,
+West Hollywood,chicken_wings,,,2.0
+West Hollywood,hotdogs,,1.0,1.0
+West Hollywood,pizza,11.0,3.0,
+West Hollywood,salad,3.0,3.0,2.0
+West Hollywood,sandwiches,1.0,1.0,2.0
+West Hollywood,tacos,2.0,1.0,
+West Los Angeles,pizza,1.0,,
+Westchester,hotdogs,,,1.0
+Westchester,pizza,1.0,,
+Westchester,salad,,1.0,
+Westchester,sandwiches,2.0,1.0,
+Westwood,sandwiches,,,1.0
+Whittier,burgers,9.0,5.0,1.0
+Whittier,chicken_wings,3.0,3.0,2.0
+Whittier,donuts,2.0,,
+Whittier,hotdogs,9.0,10.0,
+Whittier,pizza,7.0,1.0,
+Whittier,salad,,4.0,2.0
+Whittier,sandwiches,4.0,5.0,5.0
+Whittier,tacos,4.0,5.0,3.0
+Woodland Hills,burgers,1.0,1.0,
+Woodland Hills,chicken_wings,,,2.0
+Woodland Hills,hotdogs,1.0,1.0,
+Woodland Hills,pizza,4.0,1.0,
+Woodland Hills,salad,,1.0,
+Woodland Hills,sandwiches,2.0,2.0,1.0
